@@ -1,4 +1,3 @@
-````md
 # Graph Algorithms — Intuition + Crisp Pseudocode (README)
 
 A compact “revise-before-interview” sheet for the most-used graph algorithms.
