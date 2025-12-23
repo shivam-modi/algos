@@ -20,6 +20,8 @@ using namespace std;
 // - Great for dense graphs too (heap version is standard).
 */
 
+// INFO IMP: (weight, node, parent) is required to build the mst
+
 //Function to find the sum of weights of edges of the Minimum Spanning Tree.
 int spanningTree(int V, vector<vector<int>> adj[]) {
     priority_queue<P, vector<P>, greater<P>> pq;
